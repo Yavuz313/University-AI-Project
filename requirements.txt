@@ -14,4 +14,4 @@ langchain-huggingface==0.1.2
 langchain-openai==0.3.7
 langchain-text-splitters==0.3.6
 chromadb==0.3.25
-torch==2.0.0
+
