@@ -2,7 +2,7 @@ import os
 from langchain_openai import ChatOpenAI
 from langchain_core.runnables import RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
-from tavily import TavilyClient
+#from tavily import TavilyClient
 from dotenv import load_dotenv
 import datetime
 
