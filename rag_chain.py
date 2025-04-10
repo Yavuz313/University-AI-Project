@@ -10,7 +10,8 @@ import datetime
 load_dotenv()
 
 # 🔹 Retrieve API keys from environment variables
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+# OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = "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"
 #TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
 #if not OPENAI_API_KEY or not TAVILY_API_KEY:
