@@ -11,13 +11,13 @@ load_dotenv()
 
 # 🔹 Retrieve API keys from environment variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
+#TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
-if not OPENAI_API_KEY or not TAVILY_API_KEY:
-    raise ValueError("❌ API keys are missing! Please check your .env file.")
+#if not OPENAI_API_KEY or not TAVILY_API_KEY:
+#    raise ValueError("❌ API keys are missing! Please check your .env file.")
 
 # 🔹 Initialize OpenAI and Tavily clients
-tavily_client = TavilyClient(api_key=TAVILY_API_KEY)
+#tavily_client = TavilyClient(api_key=TAVILY_API_KEY)
 
 llm = ChatOpenAI(
     model_name="llama3-8b-8192",
@@ -28,18 +28,18 @@ llm = ChatOpenAI(
 )
 
 # 🔎 Web search function using Tavily API
-def search_web_with_tavily(query):
-    if len(query) < 5:  # Ignore very short queries
-        return ""
-    
-    print(f"🔍 Sending query to Tavily: {query}")
-    search_results = tavily_client.search(query=query, max_results=3)
-
-    # Extract and format the retrieved web results
-    snippets = [f"{result['title']}: {result['content']}" for result in search_results['results'] if 'content' in result]
-    
-    print("✅ Web search results retrieved!")
-    return "\n".join(snippets) if snippets else ""
+#def search_web_with_tavily(query):
+#    if len(query) < 5:  # Ignore very short queries
+#        return ""
+#    
+#    print(f"🔍 Sending query to Tavily: {query}")
+#    search_results = tavily_client.search(query=query, max_results=3)
+#
+#    # Extract and format the retrieved web results
+#    snippets = [f"{result['title']}: {result['content']}" for result in search_results['results'] if 'content' in result]
+#    
+#    print("✅ Web search results retrieved!")
+#    return "\n".join(snippets) if snippets else "" 
 
 # 📝 Prompt function for AI response generation
 def prompt_fn(query: str, context: str, web_context: str = "") -> str:
@@ -55,14 +55,14 @@ def prompt_fn(query: str, context: str, web_context: str = "") -> str:
     """
 
     # Include web search results only if available
-    search_part = f"\nAdditionally, I found the following information from the web:\n{web_context}\n" if web_context else ""
+    #search_part = f"\nAdditionally, I found the following information from the web:\n{web_context}\n" if web_context else ""
 
     return f"""
     Below is the available information for answering student inquiries about Vistula University.
 
     🔹 Follow this order when answering:
     1️⃣ **Use internal university knowledge first.**  
-    2️⃣ **If internal data lacks relevant details, use web search results.**  
+    2️⃣ **If internal data lacks relevant details.**  
     3️⃣ **If no useful information is found, respond with: "I’m sorry, but I don’t have information on this topic."**  
 
     🔹 Important Rules:
@@ -72,8 +72,7 @@ def prompt_fn(query: str, context: str, web_context: str = "") -> str:
 
     🔹 Available Information:
     {context}
-    {search_part}
-
+    
     🔹 Question:
     {query}
 
