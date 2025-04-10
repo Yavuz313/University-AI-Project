@@ -1,0 +1,887 @@
+[
+    {
+        "category": "Recruitment process",
+        "QUESTION": "How to apply online?",
+        "ANSWER": "In order to submit an online application, click on the APPLY ONLINE \nbutton, which is visible on our website. We also invite you to read \nthe RECRUITMENT information, where the following steps of \nrecruitment are explained in details. "
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "Are there any promotions for new foreign candidates? ",
+        "ANSWER": "Yes, please visit the CANDIDATE – SPECIAL OFFERS website, \nwhere you can find details about current promotions for new candidates "
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "Where can I find the price list for studies? ",
+        "ANSWER": "The price list of studies is available on the website related to \nindividual fields of study: https://www.vistula.edu.pl/en/programmes"
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "How to use online classes?",
+        "ANSWER": "Through the Platon platform, on which there are relevant instructions."
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "How to sign an online contract in the recruitment system?",
+        "ANSWER": "In order to sign a study contract in the online enrollment system, you \nmust first read its content, and then CONFIRM the acceptance of the \nterms of the contract in the TASKS in the online application. "
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": " I need support in completing my application for studies, where \ncan I find it?",
+        "ANSWER": "Please contact the Recruitment Department, whose employees will \nbe happy to help you fill out the application and answer any questions \nregarding the recruitment process."
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": " Where can I find information about transferring from another \nuniversity? ",
+        "ANSWER": "Transfer procedure takes place through an on-line admissions \nsystem:   ‘dream apply – Apply online’. You should indicate which year \nand semester of studies relates to what you wish  to be admitted for. "
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "Where can I find the price list for studies?",
+        "ANSWER": "The price list of studies is available on the website related to individual fields of study, as well as in the IMPORTANT DOCUMENTS – STUDY FEES."
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "I have finished secondary school and college. Can I apply?",
+        "ANSWER": "Yes, you need to provide both a secondary school certificate and a \ncollege diploma."
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "Can I apply for a Bachelor’s Degree studies without a High School Diploma?",
+        "ANSWER": "No, you need to have your diploma. "
+    },
+    {
+        "category": "Recruitment process",
+        "QUESTION": "How to take advantage of the promotion?",
+        "ANSWER": "All details about individual promotions and their regulations can be found on our website: CANDIDATE – SPECIAL OFFERS. In case of questions or doubts, you can always contact the Recruitment Department, which will be happy to answer all your questions: rekrutacja@vistula.edu.pl."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "What programmes do you have, and how can I apply?",
+        "ANSWER": "You can apply on-line at: https://apply.vistula.edu.pl/ Please, find detailed information about our programmes here – http://www.vistula.edu.pl/en/admissions/, https://www.vistulahospitality.edu.pl/en/ad missions"
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "What are the requirements?",
+        "ANSWER": "The main application REQUIREMENTS to study on an English programme, are: \n1. 60% GPA from previous studies. \n2. B2 level of English (if you apply for the programme in English) (confirmed by \nTOEFL, IELTS, TOEIC, or another internationally recognised certificate). If \nyour previous education was conducted in English, you may apply without a \ncertificate, but  if you are accepted, you will then need to confirm your level of \nEnglish upon arrival,  by doing our University test. If you fail the test, you are \nsupposed to study on a PREP course for at least 1 semester. "
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "What documents do I need?",
+        "ANSWER": "Photo  High School Diploma – with a transcript of records (if applying for a Bachelor’s) / Bachelor’s Diploma – a transcript of records (if applying for a Master’s)  Sworn translation of a High School Diploma / Bachelor’s Diploma  Apostille (except Belarus and Ukraine)  Language certificate, if you have one"
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "How to create an application?",
+        "ANSWER": "The instruction can be found here: https://www.instagram.com/stories/highlights/17958726457434449/ You need to SUBMIT your application, so we can proceed with your admission. After you SUBMIT your application, you will get a reply, within 2-3 days. If you get an Offer Letter, you are supposed to make the payment and sign the study agreement. After that, we will send you the relevant documents for a visa. All information on the visa process and required documents, can be checked on the website of the Polish consulate based in in your country. https://www.e-konsulat.gov.pl/ – this is the page where you can fill in applications for a visa, and receive a visa appointment date."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I want accommodation, where can I book it? Do you have a dormitory?",
+        "ANSWER": "In order to find out full information about accommodation, please, contact accommodation@vistula.edu.pl. Vistula offers private dormitories, as well as our dormitory. The cost is 210 euros for a month."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I want a confirmation that I am student. I need documents for a Visa.",
+        "ANSWER": "If you are already a current student, and have studied for at least 1 semester, please contact the Dean’s Office. We are not responsible for current students. Here, you’ll find the e-mail for your Dean: https://www.vistula.edu.pl/en/students/deans-office Or, you can contact student.affairs@vistula.edu.pl if you have any questions."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I don’t want to create an application, can I send it in the e-mail?",
+        "ANSWER": "You need to upload all of the documents to Your online application. Otherwise, they will not be considered."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": " I want to apply for Erasmus? ",
+        "ANSWER": "Please, find detailed information about Erasmus here – https://www.vistula.edu.pl/en/students/erasmus… or, alternatively, you may visit room 123."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Do I need to pay the registration fee first?",
+        "ANSWER": "No, we will send you the invoice with the tuition fee, registration fee, and student card fee."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I applied, how can I pay?",
+        "ANSWER": " Don’t rush, the university will send you the invoice for your studies, after checking \nthe documents. The invoice can be found in the application section: Payments."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I cannot upload my documents to the system.",
+        "ANSWER": "Please check if they are in the correct format. The correct format is – JPEG, PDF."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I forgot the password to my application. What shall I do?",
+        "ANSWER": "Please contact: admission2@vistula.edu.pl , and they will help you."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can I apply for a Bachelor’s Degree studies without a High School Diploma?",
+        "ANSWER": "No, you need to have your diploma."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I have finished secondary school and college. Can I apply?",
+        "ANSWER": "Yes, you need to provide both a secondary school certificate and a college diploma."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Do you have any scholarships I can apply for?",
+        "ANSWER": "Yes, we have a Vistula Merit scholarship. You can read about it here: https://www.vistula.edu.pl/en/programmes/promotion/vistula-university-merit scholarship We also have other scholarships: https://www.vistula.edu.pl/en/students/scholarships"
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can I pay for 1 semester?",
+        "ANSWER": "Due to the demands of the Polish consulate, You should pay fees for the whole of the first year. Starting from the second year, You may pay per semester. I am a student, I want to pay for next semester/year. Please contact: kwestura@vistula.edu.pl from your student e-mail and ask for an invoice."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I want access to my schedule?",
+        "ANSWER": "Firstly, arrive in Poland. Then, come to room 28, and submit your original documents. After that, you will get access to Platon and Usos."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can I pay in Polish złotties for my studies?",
+        "ANSWER": "Yes, just ask admission2@vistula.edu or kwestura@vistula.edu.pl to send the invoice in Polish złotties."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I cannot book an appointment in the Embassy. Can you help?",
+        "ANSWER": "Unfortunately, we can’t interfere with the Consulate’s work. If You can’t get the visa appointment before the 15th of November, You may defer Your admission to the Spring intake."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Do you accept Duolingo?",
+        "ANSWER": "No, we accept international certificates, like IELTS, TOEFL, TOEIC. If you don’t have such a certificate, you can pass an exam at our university."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I want a refund of my money, how do I arrange that?",
+        "ANSWER": "Please, write to: refund@vistula.edu.pl. Also, please read the contract, §4, abstract 8-16."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I am a student, can I pay for my studies at the university?",
+        "ANSWER": "Yes, you may come to the Bursar’s office, and pay there: by cash or by card."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Do I need Apostille?",
+        "ANSWER": "Yes, unless you are from Belarus or Ukraine. For these 2 countries, no Apostille is needed."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can I transfer from another university?",
+        "ANSWER": "Yes, the procedure is the same when applying. Transfer procedure takes place through an on-line admissions system: ‘dream apply – Apply online’. You should indicate which year and semester of studies relates to what you wish to be admitted for."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can someone else pay for my studies?",
+        "ANSWER": "Yes, but please remember to provide correct student/candidate data in the transfer payment title: name, surname, and student ID number."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I don’t want to study anymore. What should I do?",
+        "ANSWER": "You should submit a petition to the Dean that you are resigning from your studies, through USOS."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I was admitted to the Fall semester, but can I defer my studies till the Spring semester",
+        "ANSWER": "Yes, you may re-submit the application, by yourself, for the Spring semester. Also, inform us at: admission2@vistula.edu.pl."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": " I was crossed out of the list of existing students. Can I apply for re\nadmission to the University?",
+        "ANSWER": "The student who is crossed out of the list of existing students may apply for re admission to the University – after paying all overdue fees. Then, the student should pay both the registration fee and proper tuition fee."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can the University help me with finding a future job?",
+        "ANSWER": "Yes, we do have a Careers Department. They can help you to draw up a CV, and find an internship or job."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I don’t have a language certificate, can I pass an English exam at the University?",
+        "ANSWER": "Yes, you may pass an exam at the university. You may visit room 308, and register there for the exam."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "With whom, can I talk about a refund?",
+        "ANSWER": "You may contact: refund@vistula.edu.pl"
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can I meet with the financial department, and talk with them about a refund?",
+        "ANSWER": "Unfortunately, the only way to contact them is through e mail, refund@vistula.edu.pl"
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I am a new student coming from abroad. I need someone to pick me up from the airport?",
+        "ANSWER": "You can apply for the Mentoring programme, and you will be assigned a person who will help you get comfortable in Poland. You can apply here: https://vistula.broaddy.com/register/international"
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Can someone help to show me around Warsaw?",
+        "ANSWER": "Yes, we have a Mentoring programme, so, you can apply and get assigned a Mentor, at the following e-mail address . https://vistula.broaddy.com/register/international"
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "Where can I take the student ID card?",
+        "ANSWER": "You can take it from the reception desk, or at the Dean’s office."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I need to submit my original documents. Where do I need to go?",
+        "ANSWER": "After arrival, you have 2 days to submit your original documents to the Recruitment office, room 28."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "What is a medical certificate?",
+        "ANSWER": "It is a certificate from your doctor stating that you don’t have any restrictions to conducting your studies."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I don’t have a medical certificate, can I do that at the university?",
+        "ANSWER": "Yes, if you do not have a medical certificate, you may get it from our University doctor (the cost is 60 PLN)."
+    },
+    {
+        "category": "Recruitment process, foreign student",
+        "QUESTION": "I submitted my application, how long should I wait?",
+        "ANSWER": "Thank you! Your application will be considered within 3 working days. All the feedback you will get, will be sent by e-mail."
+    },
+    {
+        "category": "How to reduce tuition fees?",
+        "QUESTION": "How much is the rector’s scholarship?",
+        "ANSWER": "All information on scholarships is available on our website: https://www.vistula.edu.pl/en/students/scholarships. If you have additional questions or concerns, please contact the scholarship department directly: Contact (Warsaw): m.dabrowski@vistula.edu.pl or by phone: +48 22 45 72 321"
+    },
+    {
+        "category": "How to reduce tuition fees?",
+        "QUESTION": "I cannot cope with completing the application or with the necessary documentation, who can help me with this?",
+        "ANSWER": "The Scholarship Coordinator. Contact (Warsaw): m.dabrowski@vistula.edu.pl or by phone: +48 22 45 72 321"
+    },
+    {
+        "category": "How to reduce tuition fees?",
+        "QUESTION": "What are the scholarship deadlines, thresholds and documentation necessary to receive a scholarship?",
+        "ANSWER": "The full list of documents and thresholds as well as deadlines can be found on the University website and they are regularly updated."
+    },
+    {
+        "category": "How to reduce tuition fees?",
+        "QUESTION": "Can every student, regardless of nationality, receive a scholarship?",
+        "ANSWER": "Yes, if he/she has all the relevant documents. The full list of documents for foreigners is available on the University’s website: https://www.vistula.edu.pl/en/students/scholarships."
+    },
+    {
+        "category": "How to reduce tuition fees?",
+        "QUESTION": "How to take advantage of the promotion?",
+        "ANSWER": "All details about individual promotions and their regulations can be found on our website. In case of questions or doubts, you can always contact the Recruitment Department, which will be happy to answer all your questions: rekrutacja@vistula.edu.pl."
+    },
+    {
+        "category": "How to reduce tuition fees?",
+        "QUESTION": "Are there any promotions for new candidates?",
+        "ANSWER": "Yes, please visit the CANDIDATE – SPECIAL OFFERS website, where you can find details about current promotions for new candidates for studies."
+    },
+    {
+        "category": "Finance, payments for studies",
+        "QUESTION": "I am a student, I want to pay for next semester/year.",
+        "ANSWER": "Please contact: kwestura@vistula.edu.pl from your student e-mail and ask for an invoice."
+    },
+    {
+        "category": "Finance, payments for studies",
+        "QUESTION": "I am a student, can I pay for my studies at the university?",
+        "ANSWER": "Yes, you may come to the Bursar’s office, and pay there: by cash or by card."
+    },
+    {
+        "category": "Finance, payments for studies",
+        "QUESTION": "I want a refund of my money, how do I arrange that?",
+        "ANSWER": "Please, write to: refund@vistula.edu.pl. Also, please read the contract, §4, abstract 8-16."
+    },
+    {
+        "category": "Finance, payments for studies",
+        "QUESTION": "Can someone else pay for my studies?",
+        "ANSWER": "Yes, but please remember to provide correct student/candidate data in the transfer payment title: name, surname, and student ID number."
+    },
+    {
+        "category": "Finance, payments for studies",
+        "QUESTION": "I want a refund of my money, how do I arrange that?",
+        "ANSWER": "Please, write to: refund@vistula.edu.pl. Also, please read the contract, §4, abstract 8-16."
+    },
+    {
+        "category": "Finance, payments for studies",
+        "QUESTION": "I am a student, can I pay for my studies at the university?",
+        "ANSWER": "Yes, you may come to the Bursar’s office, and pay there: by cash or by card."
+    },
+    {
+        "category": "Organisation of the academic year",
+        "QUESTION": "Where can I find the dates of part-time study sessions?",
+        "ANSWER": "The organisation of the academic year is always published in the beginning of June, the dates of classes are listed on the website."
+    },
+    {
+        "category": "Organisation of the academic year",
+        "QUESTION": "Where can I find information about the exam session?",
+        "ANSWER": "Exam session dates are given in the organisation of the academic year. Each lecturer is obliged to inform students about the date of the exam / final test."
+    },
+    {
+        "category": "Organisation of the academic year",
+        "QUESTION": "Where can I find information about the summer break, winter break, etc.?",
+        "ANSWER": "Information on holidays is included in the organisation of the academic year at: https://www.vistula.edu.pl/en/students/deans-office/organization-academic year/2021-2022"
+    },
+    {
+        "category": "Organisation of the academic year",
+        "QUESTION": "The session schedule, where can I find it?",
+        "ANSWER": "See: https://www.vistula.edu.pl/en/students/deans-office/organization-academic year/2021-2022"
+    },
+    {
+        "category": "Organisation of the academic year",
+        "QUESTION": "The employer needs a document on the organization of the academic year. Whom can I contact? Where can I look for it?",
+        "ANSWER": "The organisation of the academic year is always announced in the beginning of June. The Rector’s Order on the organization of the academic year is available at:https://www.vistula.edu.pl/student/dziekanat/organizacja-roku-akademickiego"
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find the timetable?",
+        "ANSWER": "The timetable is available in the USOSweb (University Study-Oriented System). The link to the USOSweb is available on the University’s website, in the Intranet tab. Students can see their individual timetable after logging the USOS system."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find information about the exam session?",
+        "ANSWER": "Exam session dates are given in the organisation of the academic year. Each lecturer is obliged to inform students about the date of the exam / final test."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "How can I collect my student ID card?",
+        "ANSWER": "Student ID cards for students of the 1st semester can be collected at the reception of the University, the remaining cards should be collected at the Dean’s Office."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "What is USOS, Platon?",
+        "ANSWER": "USOS (University Study-Oriented System) is an IT system for managing the course of study providing information on your timetable, lecturers’ duty hours, subject syllabi, etc.  Platon is an e-learning platform where lecturers post didactic materials for their courses."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "How can I contact the Planning Department?",
+        "ANSWER": "Write to us at: plan@vistula.edu.pl."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Why can’t I see the timetable? Who can help me?",
+        "ANSWER": "Contact the Planning Department plan@vistula.edu.pl"
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "When will the timetable be available?",
+        "ANSWER": "According to the Regulations, the timetable is published two weeks before the beginning of courses."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "How can I find a lecturer?",
+        "ANSWER": "All information regarding courses is provided in the timetable on the USOSweb. Information on the lecturer (name and surname) is given in the description of each course and that is where you can check his/her timetable or send him/her an e-mail."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Why do I my classes overlap? What should I do?",
+        "ANSWER": "Contact the Planning Department plan@vistula.edu.pl."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find the timetable?",
+        "ANSWER": "The timetable is available in the USOSweb (University Study-Oriented System). The link to the USOSweb is available on the University’s website, in the Intranet tab. Students can see their individual timetable after logging the USOS system."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find information on project vacancies?",
+        "ANSWER": "Such information can be obtained directly from the Project Office. Recruitment for project activities is conducted on a continuous basis, therefore the number of available places is constantly updated."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "How can I submit my application to participate in the project?",
+        "ANSWER": "Recruitment for trainings financed within projects is carried out by their coordinators employed in the University’s Project Office. Recruitment takes place primarily by e-mail / telephone – interested persons may apply to the indicated e-mail addresses. Due to the fact that information about international trainings / internships in Dubai is also included, among others, on the University’s website and posters placed on the University premises, it is also possible to apply in person in the Project Office (room no. 329 / 329a). Recruitment for national internships takes place in the University’s Careers Office."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "What is the cost of participating in the project?",
+        "ANSWER": "Participation in the project is free of charge. Project activities are financed by the European Union and the state budget."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Who can participate in the project?",
+        "ANSWER": "Projects are open for Vistula University / the Vistula School of Hospitality students who meet the criteria for participation in a given project, specified in the grant application. The criteria for participation in each project may differ due to its specificity, or target groups of recipients. Compliance with the criteria is verified during the recruitment process conducted by the Project Office or other units of the University dealing with project recruitment."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find the dates of part-time study sessions?",
+        "ANSWER": "The organisation of the academic year is always published in the beginning of June, the dates of classes are listed on the website."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find information about the exam session?",
+        "ANSWER": "Exam session dates are given in the organisation of the academic year. Each lecturer is obliged to inform students about the date of the exam / final test."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find information about the summer break, winter break, etc.?",
+        "ANSWER": "Information on holidays is included in the organisation of the academic year at: https://www.vistula.edu.pl/en/students/deans-office/organization-academic year/2021-2022"
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "The session schedule, where can I find it?",
+        "ANSWER": "See: https://www.vistula.edu.pl/en/students/deans-office/organization-academic year/2021-2022"
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "The employer needs a document on the organization of the academic year. Whom can I contact? Where can I look for it?",
+        "ANSWER": "The organisation of the academic year is always announced in the beginning of June. The Rector’s Order on the organization of the academic year is available at:https://www.vistula.edu.pl/student/dziekanat/organizacja-roku-akademickiego"
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Why is the semester timetable different from the weekly timetable?",
+        "ANSWER": "The weekly timetable is detailed and shows all current changes. All courses planned in a given semester are visible in the semester timetable."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I see my study programme?",
+        "ANSWER": "Study programs are available on the BIP (Public Information Bulletin) – link on the University’s website: https://afibv-warszawa.ssdip.bip.gov.pl/akty-prawne-afibv/"
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find course syllabi?",
+        "ANSWER": "Contact, the Study Programme Director."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find information on lecturers’ duty hours?",
+        "ANSWER": "See: www.vistula.edu.pl and in USOSweb."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "What are the procedures for retaking a semester?",
+        "ANSWER": "If you do not qualify for a conditional pass for the next semester, it is possible to retake the whole semester. In this case, you must submit an application via USOS to the Dean, with the justification for your request to retake the semester. The decision is made by the Dean."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "What are the rules for obtaining a credit and for retaking courses?",
+        "ANSWER": "For each completed course you obtain ECTS credits in the USOS system. In one year of study, you must complete all the courses (the grade should be entered in USOS), which means obtaining 60-64 ECTS credits (depending on the study program). When you have positive grades in all courses and the appropriate number of ECTS credits is entered in USOS, the year of study is considered as completed and the Dean’s Office enrolls you for the next academic year. You can check your grades on your USOS account. Remember that you must have all grades entered at the end of each academic year. If you fail a course, you may get a conditional pass to start another year of studies. The condition for receiving such consent is obtaining:  at least 40 ECTS credits after the first year of study,  at least 100 ECTS credits after the second year of study,  at least 160 ECTS credits after the third year of study. In such a case, you must submit an application to the Dean via USOS, in which you must list all failed courses. If you receive a positive decision from the Dean, you can retake the outstanding courses from the previous year during the next year of study. Remember, however, that a conditional pass is associated with an additional fee. Important! If you do not obtain the required number of ECTS credits, the Supervisor of your field of study at the Dean’s Office will delete you from the student roster."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "My grades are not in the system, what should I do?",
+        "ANSWER": "First of all, please contact your lecturer on that by e-mail. You should copy on the e-mail the Supervisor of your field of study at the Dean’s Office. Only the lecturer can provide information about the reason for the lack of grades in the system and only he/she can enter the grades. If the lecturer does not respond, please inform about this fact the Supervisor of your field of study at the Dean’s Office."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "How can I collect my student ID card?",
+        "ANSWER": "Student ID cards for students of the 1st semester can be collected at the reception of the University, the remaining cards should be collected at the Dean’s Office."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "Where can I find information about the date of the defense and how can I collect the diploma?",
+        "ANSWER": "Information on the date of the thesis defense is always available in USOS and in APD. Additionally, students are notified by e-mail by the Dean’s Office employee in order not to miss the deadline. The diploma can be collected after 30 days from the day of defense. Information on the possibility of collecting the diploma will be availabe in the USOS system and from the Field Supervisor at the Dean’s Office."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "What can I do if the supervisor does not reply to my e-mails?",
+        "ANSWER": "Please, strictly follow the principles regulating the order of contact. All student issues are sequentially dealt with by: 1. The Supervisor of your field of study in the Dean’s Office. First of all, contact the Supervisor by e-mail. Based on the e-mail, he/she will asses what you need and think about the possible ways of addressing the problem. If for some reason the Supervisor of your field of study is not able to help you, contact the next person according to the following order of contact: 2. Director of the Dean’s Office 3. Dean 4. Vice-Dean for Student Affairs When sending e-mails, keep the message history, i.e. send all previous correspondence to other people. Remember that e-mails without history with subsequent employees of the University will remain unanswered."
+    },
+    {
+        "category": "Student affairs",
+        "QUESTION": "What is the scope of the Dean’s Office duties?",
+        "ANSWER": "FRONT OFFICE:  issuing various types of certificates,  issuing new student recept  extending validity of student ID cards,  controlling payments,  issuing diplomas,  issuing stored documents,  explaining students’ doubts about the education cycle,  collecting diploma theses,  generating in USOS and issuing transcripts,  issuing protocols for conditional passes and study program differences,  accepting and further handling of resignation from studies. BACK OFFICE:  student promotion for the next semester,  adding students to student lists of additional courses (study program differences, conditional passes),  deleting students from the student roster,  providing opinions on student applications and forwarding them to the Dean,  sending to students repiles to their applications,  solving difficult, non-standard students’cases,  contacting lecturers regarding students’ grades,  maintaining e-mail correspondence with students,  keeping students’ documentation,  ordering student ID cards via the ID system,  issuing certificates based on documentation,  issuing archival documents,  issuing duplicates of documents."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "Why am I not receiving messages by private e-mail?",
+        "ANSWER": "Correspondence takes place only to e-mail addresses in the domain @ stu.vistula.edu.pl. Students receive an e-mail from us with a generated e-mail account in the Vistula domain. This address will be entered in the USOSweb as the primary address for correspondence with the University."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "I do not have or have a incorrect ID, what should I do?",
+        "ANSWER": "Please send an e-mail to the following address: ict-help@vistula.edu.pl"
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "Why am I waiting a long time for an answer from the IT department?",
+        "ANSWER": "We try to respond within 24 hours, but with a large number of reports, this time may be longer."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "I am not on the student list on the Platon platform, what should I do?",
+        "ANSWER": "An account on the Platon platform will be created the day after generating an email in the @ stu.vistula.edu.pl domain. In case of technical problems with the platform, please send an e-mail to: ict-help@vistula.edu.pl."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "How to connect to an online lesson?",
+        "ANSWER": "Links to online lessons are provided by lecturers on the Platon platform in the subject details. Sometimes links to classes are sent by lecturers to students’ vistula email."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "Where are my grades?",
+        "ANSWER": "In the USOSweb system"
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "I forgot my password, what should I do?",
+        "ANSWER": "Write to ict-help@vistula.edu.pl from the private address used during the recruitment."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "Where can I find the Wi-Fi password?",
+        "ANSWER": "At the Protection on the wall in the main hall of the University."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "How to contact technical support?",
+        "ANSWER": "Send an e-mail to the following address: ict-help@vistula.edu.pl"
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "Where can I find manuals for individual services?",
+        "ANSWER": "The instructions are available on the websites to which they apply."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "How to log into Vistula systems?",
+        "ANSWER": "You can log into all systems with one account – an e-mail account in the @stu.vistula.edu.pl domain, except for the Rosetta Stone – TellMeMore foreign language platform."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "What can I do in each of the systems?",
+        "ANSWER": "1. USOSweb – timetable, contact to the lecturer, information about subjects, registration for classes, final grades, scholarships (filling in forms and receiving decisions), surveys, payments (account number, funds cleared and unsettled, etc.), student applications. 2. Platon – IT system for supporting students and managing the course of study. A platform for remote learning or supporting regular classes. The lecturer can post links to classes, additional materials, tests and exams, etc. 3. Rosetta Stone – TellMeMore – e-learning platform – a way to learn a language quickly and effectively."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "How to reset your e-mail password?",
+        "ANSWER": "Write to ict-help@vistula.edu.pl. Unless you want to change them but know the old ones, then you can do it yourself on the Vistula mail site."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "How to log into the university system?",
+        "ANSWER": "After submitting the documents to the Recruitment Department and admission to studies, within a few days of registration, you will receive logins to individual university systems along with detailed instructions on how to use them."
+    },
+    {
+        "category": "Technical support",
+        "QUESTION": "My account is inactive, what should I do?",
+        "ANSWER": "If you have already received a login and password and you cannot log in, please contact our IT department. New students who have not received an email with information on how to log in, should contact the Admissions Department. Students who continue their studies and their account is no longer active after the semester, should contact their Field Supervisor at the Dean’s Office."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I am a student, can I pay for my studies at the university?",
+        "ANSWER": "Yes, you may come to the Bursar’s office, and pay there: by cash or by card."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "The Dean’s office is not answering me. What should I do?",
+        "ANSWER": "Please note, that the Dean’s office receives lots of e-mails, and it takes time to answer them."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I am a student, can I pay for my studies at the university?",
+        "ANSWER": "Yes, you may come to the Bursar’s office, and pay there: by cash or by card."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I don’t want to create an application, can I send it in the e-mail?",
+        "ANSWER": "You need to upload all of the documents to Your on-line application. Otherwise, they will not be considered."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I need help with applying for a Residence Card. Can anyone help me?",
+        "ANSWER": "Yes, you may come to room 307. They can help you with documents."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I don’t have a language certificate, can I pass an English exam at the University?",
+        "ANSWER": "Yes, you may pass an exam at the university. You may visit room 308, and register there for the exam."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I don’t have a medical certificate, can I do that at the university?",
+        "ANSWER": "Yes, if you do not have a medical certificate, you may get it from our University doctor (the cost is 60 PLN)."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "What is a medical certificate?",
+        "ANSWER": "It is a certificate from your doctor stating that you don’t have any restrictions to conducting your studies."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I need to submit my original documents. Where do I need to go?",
+        "ANSWER": "After arrival, you have 2 days to submit your original documents to the Recruitment office, room 28."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "Where can I take the student ID card?",
+        "ANSWER": "You can take it from the reception desk, or at the Dean’s office."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "Can someone help to show me around Warsaw?",
+        "ANSWER": "Yes, we have a Mentoring programme, so, you can apply and get assigned a Mentor, at the following e-mail address . https://vistula.broaddy.com/register/international"
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I am a new student coming from abroad. I need someone to pick me up from the airport.",
+        "ANSWER": "You can apply for the Mentoring programme, and you will be assigned a person who will help you get comfortable in Poland. You can apply here: https://vistula.broaddy.com/register/international"
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "The Dean’s office is not answering me. What should I do?",
+        "ANSWER": "Please note, that the Dean’s office receives lots of e-mails, and it takes time to answer them."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "Can I meet with the financial department, and talk with them about a refund?",
+        "ANSWER": "Unfortunately, the only way to contact them is through e mail, refund@vistula.edu.pl"
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "With whom, can I talk about a refund?",
+        "ANSWER": "You may contact: refund@vistula.edu.pl"
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I was crossed out of the list of existing students. Can I apply for re admission to the University?",
+        "ANSWER": "The student who is crossed out of the list of existing students may apply for re admission to the University – after paying all overdue fees. Then, the student should pay both the registration fee and proper tuition fee."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I don’t want to study anymore. What should I do?",
+        "ANSWER": "You should submit a petition to the Dean that you are resigning from your studies, through USOS."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I want access to my schedule.",
+        "ANSWER": "Firstly, arrive in Poland. Then, come to room 28, and submit your original documents. After that, you will get access to Platon and Usos."
+    },
+    {
+        "category": "Foreign student affairs",
+        "QUESTION": "I want accommodation, where can I book it? Do you have a dormitory?",
+        "ANSWER": "In order to find out full information about accommodation, please, contact with accommodation@vistula.edu.pl. Vistula offers private dormitories, as well as our own dormitory. The cost is 210 euros (for one month)."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Does the Career and Internship Department organise any job fairs, webinars?",
+        "ANSWER": "The Career and Practitioner Department organises the Job Fairs twice a year. The first, called JobDay, take place in October, and the second, called JobSpot, takes place in March or April. Details can be found on the website: https://www.vistula.edu.pl/en/students/career-office/job-fairs"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Will the Careers and Internship Department help me prepare for job interviews?",
+        "ANSWER": "Yes. The Career Advisor will be happy to provide you with tips on how to prepare for job interviews."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Will the Career and Internship Department help me prepare an effective CV?",
+        "ANSWER": "Of course. CV consultations are available in the Careers and Internship Department. Each student can count on the help of an experienced career counselor."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I find the documents needed for the recruitment process (personal questionnaire, statements, etc.)?",
+        "ANSWER": "Downloadable documents can be found on the website: https://www.vistula.edu.pl/en/career"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "How can I apply for a given position?",
+        "ANSWER": "There is an active “Apply” button under each job offer, then fill out the contact form and add your current CV. The sent application will go to our internal mailbox."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I find instructions on how to use the financial settlement system?",
+        "ANSWER": "Instructions on the use of the Employee Portal can be found in the Intranet / For Employees / Employee Portal tab"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I find the documents needed for the recruitment process (personal questionnaire, declarations, etc.)?",
+        "ANSWER": "Downloadable documents can be found in the tab: University / Career at the University / HR Department / Applications and Documents to download for the candidate."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "How can I apply for a given position?",
+        "ANSWER": "The application will be sent to our internal mailbox."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I find job offers for the administrative staff?",
+        "ANSWER": "Job offers can be found in the tab: University / Career on the University / Job Offer / for the Administrative Staff."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I find job offers for the academic staff?",
+        "ANSWER": "Job offers can be found in the tab: University / Career at the University / Job Offer / for the Academic Staff."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I find job offers for students?",
+        "ANSWER": "Job offers for students can be found in the tab: University / Career at the University / Job Offer / Student Internships and Student Placements"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Can the University help me with finding a future job?",
+        "ANSWER": "Yes, we do have a Careers Department. They can help you to draw up a CV, and find an internship or job."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I do my internship?",
+        "ANSWER": "The placement places depend on the field of study. Places suitable for the field of study can be found in each obligatory internship program on the website of the Career and Internship Department: https://www.vistula.edu.pl/en/students/career office/occupational-practice-rules/vistula university or https://www.vistula.edu.pl/en/students/career-office/occupational practice-rules/vistula-school-hospitality"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Can I get get for an internship based on work?",
+        "ANSWER": "Yes, then we submit documents from the “Completion of internships on the basis of work / other activities in Poland or abroad” on the website of the Career and Internship Department: https://www.vistula.edu.pl/en/students/career office/occupational-practice-rules/vistula university or https://www.vistula.edu.pl/en/students/career-office/occupational practice-rules/vistula-school-hospitality"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Do you offer foreign internships?",
+        "ANSWER": "We do not have."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Can I pursue an internship abroad?",
+        "ANSWER": "Yes, then we submit documents from the “Completion of internships on the basis of work / other activities in Poland or abroad” on the website of the Career and Internship Department: https://www.vistula.edu.pl/en/students/career office/occupational-practice-rules/vistula university or https://www.vistula.edu.pl/en/students/career-office/occupational practice-rules/vistula-school-hospitality"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Is the number of compulsory hours to complete the internship?",
+        "ANSWER": "The number of compulsory internships depends on the field of study and year of recruitment. The number of internship hours can be checked in the apprenticeship programs. Each field of study has a separate internship program with the obligatory number of internship hours."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where do I have to submit documents for the internship?",
+        "ANSWER": "Documents of completed internships students of VSH submit to the Career and Internship Department (1st floor, room 116). On the other hand, VU students send scanned documents to the e-mail address of their tutor."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "How can you pass compulsory internships?",
+        "ANSWER": "There are two options for completing the compulsory apprenticeship. The student submits a different set of documents depending on whether he will apply for a placement credit on the basis of unpaid internships in Poland or on the basis of work related to the field of study. If based on unpaid internships, he / she completes the following set of documents: Based on the implementation of free internships in Poland:  Contract for the organisation of professional student internship – 2 copies.  A referral for a professional student placement – only if your employer requires a referral before working with you.  Diary of student internships.  Certificate of completion of professional student internship. If you have concluded an employment contract with the company, apply for an internship on the basis of this set of documents: On the basis of work / other activities in Poland or abroad:  o Application for crediting internships on the basis of work / activity – to be completed by the student.  The student’s declaration, information on the learning outcomes achieved – to be completed by the student.  Employer’s opinion on the course of employment – filled in by the employer.  Copy of the Agreement or a document confirming the period of professional activity and its kind."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where to find a contact to the departmental internship tutor?",
+        "ANSWER": "On the website: https://www.vistula.edu.pl/en/students/career-office/occupational practice-rules/contact-to-internship-supervisors."
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "Where can I find documents about internships?",
+        "ANSWER": "On the website: https://www.vistula.edu.pl/en/students/career-office/occupational practice-rules"
+    },
+    {
+        "category": "Offers of practices and internships",
+        "QUESTION": "How to find a contact to the Career and Internship Department?",
+        "ANSWER": "On the website: https://www.vistula.edu.pl/en/students/career-office"
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "Where can I find the necessary documents to download for an Erasmus trip?",
+        "ANSWER": "See: https://www.vistula.edu.pl/student/erasmus/dla-studentow/studia."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "Do I need a visa to join Erasmus?",
+        "ANSWER": "Yes."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "How do I complete my Learning Agreement?",
+        "ANSWER": "The instructions can be found here: https://www.vistula.edu.pl/student/erasmus/dla-studentow/studia."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "Can I participate in an Erasmus program together with my friend?",
+        "ANSWER": "Yes, you can."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "What documents do I have to submit after returning from the Erasmus program?",
+        "ANSWER": "Confirmation of stay signed by the partner university Learning Agreement, Transcript of Records."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "Why can’t I go to Erasmus during my final semester?",
+        "ANSWER": "You can, but conditionally, with the consent of the Vice-dean."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "Who signs my Erasmus mobility documents?",
+        "ANSWER": "Faculty Coordinator, partner university."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "What is the required level of a foreign language competency?",
+        "ANSWER": "B2."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "What are the rules of Erasmus recruitment?",
+        "ANSWER": "The rules are available on the website: https://www.vistula.edu.pl/en/students/erasmus"
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "What certificates are accepted for an Erasmus + mobility?",
+        "ANSWER": "Certificates confirming knowledge of English at the B2 level."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "To which countries outside the EU can you go within the Erasmus program?",
+        "ANSWER": "The program covers only EU countries."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "Where can I go for an Erasmus internship? For how long?",
+        "ANSWER": "You can go to institutions, companies or universities for an internship. The trip should be related to your field of study. The recommended period of internship mobility is 2-3 months."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "How many times can I participate in the Erasmus mobility program?",
+        "ANSWER": "The mobility capital at each level of studies is 12 months, which can be divided into several trips."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "What are the deadlines for submitting Erasmus + mobility applications?",
+        "ANSWER": "Recruitment takes place twice a year. Dates will be announced."
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "What are our Erasmus+ partner universities?",
+        "ANSWER": "We have over 40 bilateral agreements. List of partner universities: https://www.vistula.edu.pl/en/students/erasmus/partner-universities"
+    },
+    {
+        "category": "Erasmus+",
+        "QUESTION": "How to apply for Erasmus?",
+        "ANSWER": "Please, find detailed information about Erasmus here – https://www.vistula.edu.pl/en/students/erasmus or, alternatively, you may visit room 123."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "How can I join the library?",
+        "ANSWER": "To become a member of the library, you must complete an application form (available at the library), pay a one-off fee (its amount is defined under the Library Director Order), and present a valid student ID. The data contained in the application form are verified on the basis of a valid student ID and passport / ID. It is impossible to register only on the basis of a student ID or an ID card."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "How many books can I borrow?",
+        "ANSWER": "Readers may have a maximum of 4 borrowed publications."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "Can I photocopy or scan parts of books?",
+        "ANSWER": "Pursuant to the copyright law in force, the Reader may order a photocopy or scan of library publications for personal use."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "Does the library offer publications recommended by lecturers and in what form, i.e. paper and/ or electronic?",
+        "ANSWER": "The library collects paper and/or electronic versions of publications listed in the syllabi of courses taught at the University. We take special care to acquire both basic and supplementary literature. Electronic literature is available in subscribed full-text databases."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "What full-text databases do we offer and how to log into them outside the University campus?",
+        "ANSWER": "At the University, all full-text databases offered by the library are available without logging in. Outside the University, students can access: Ibuk Libra (books in Polish), Ebrary (books in English) and ProQuest (magazines mainly in English). Login data can be obtained by e-mail biblioteka@vistula.edu.pl."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "How to use the catalog of printed books and fill in a slip for the librarian?",
+        "ANSWER": "The use of the printed books catalog is intuitive and it is explained in the library training. The catalog is available on the University’s website in the “library” tab. The library slip must contain the name of the author and the title of the book as well as the reference numbers (signatures) of copies available for borrowing."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "Which publications can I borrow and which can only be used in the reading room?",
+        "ANSWER": "The library’s book collection is divided into the part available for borrowing and the part available only on site in the reading room. Positions that can be used only on site are specially marked in the catalog."
+    },
+    {
+        "category": "Library",
+        "QUESTION": "What is library training?",
+        "ANSWER": "Library training provides students with the basic knowledge about the functioning of the scientific library of the Vistula Group of Universities. Students get acquainted with materials available on the Platon platform and then pass an exam in order to obtain a credit for the training."
+    }
+]
